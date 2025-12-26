@@ -10,4 +10,4 @@ https://myebstudios.itch.io/simple-ping-pong-assets
 
 ## Progress
 
-I had to relearn Godot because I have not used it in so long.(Tutorial —- )
+I had to relearn Godot because I have not used it in so long.(Tutorial —- https://www.youtube.com/watch?v=LOhfqjmasi0&t=323s)
