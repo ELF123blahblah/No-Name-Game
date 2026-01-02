@@ -1,13 +1,4 @@
-# Ping-Pong-Game
-I am learning how to code and make games. This is my first no tutorial, no guide game that I am making. Currently my drawing skills are not good so I go the assets online. Hope you enjoy
-# Day 1
+# Too fast to catch(Journal/Dev log)
 
-Today I decided on what the game name and what game I would do. Which is a simple pong game. This might seem little small because it is. For me that is okay cause I am just starting to learn.
-
-## Assets
-
-https://myebstudios.itch.io/simple-ping-pong-assets
-
-## Progress
-
-I had to relearn Godot because I have not used it in so long.(Tutorial —- https://www.youtube.com/watch?v=LOhfqjmasi0&t=323s)
+This is my first time making a game without following any tutorials. So don’t expect much. Currently as I am starting this project I won’t be commit my 100% as I am also working on a hackpad. I have decided to draw every bit of asset I need for the game. I quite don’t know the specific term for the style of art I am going to do but as I said it’s all gonna be hand drawn.
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
